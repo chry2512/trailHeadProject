@@ -2,7 +2,7 @@
   @description       : 
   @author            : 
   @group             : 
-  @last modified on  : 03-28-2023
+  @last modified on  : 03-30-2023
   @last modified by  : 
 -->
 <template>
@@ -14,6 +14,9 @@
                 columns={columns}
             >
            </lightning-datatable>
+        </template>
+        <template if:true={errors}>
+            <p>{errors}</p>
         </template>
     </lightning-card>
 </template>
