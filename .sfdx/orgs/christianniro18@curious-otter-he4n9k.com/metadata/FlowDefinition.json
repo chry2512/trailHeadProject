@@ -1,0 +1,96 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "flowDefinitions/customer_satisfaction.flowDefinition",
+      "fullName": "customer_satisfaction",
+      "id": "3007Q000000kYF0QAM",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "FlowDefinition"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2022-02-18T16:14:56.000Z",
+      "fileName": "flowDefinitions/Load_Sample_Data.flowDefinition",
+      "fullName": "Load_Sample_Data",
+      "id": "3007Q0000014GVTQA2",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2022-02-18T16:14:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "FlowDefinition"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:52.000Z",
+      "fileName": "flowDefinitions/Opportunity_Status_Change.flowDefinition",
+      "fullName": "Opportunity_Status_Change",
+      "id": "3007Q000000kmAFQAY",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:16:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "FlowDefinition"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:52.000Z",
+      "fileName": "flowDefinitions/Price_Change_Push_Notification.flowDefinition",
+      "fullName": "Price_Change_Push_Notification",
+      "id": "3007Q000000kmAHQAY",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:16:01.000Z",
+      "manageableState": "unmanaged",
+      "type": "FlowDefinition"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "flowDefinitions/net_promoter_score.flowDefinition",
+      "fullName": "net_promoter_score",
+      "id": "3007Q000000kYEzQAM",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "FlowDefinition"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:52.000Z",
+      "fileName": "flowDefinitions/Post_Price_Changes_to_Slack.flowDefinition",
+      "fullName": "Post_Price_Changes_to_Slack",
+      "id": "3007Q000000kmAGQAY",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:16:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "FlowDefinition"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:52.000Z",
+      "fileName": "flowDefinitions/Advertise_New_Property.flowDefinition",
+      "fullName": "Advertise_New_Property",
+      "id": "3007Q000000kmAEQAY",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:15:59.000Z",
+      "manageableState": "unmanaged",
+      "type": "FlowDefinition"
+    }
+  ]
+}

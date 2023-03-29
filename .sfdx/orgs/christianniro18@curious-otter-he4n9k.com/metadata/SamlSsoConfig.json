@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-19T16:22:34.000Z",
+      "fileName": "samlssoconfigs/Axiom_Test_App.samlssoconfig",
+      "fullName": "Axiom_Test_App",
+      "id": "0LE7Q000000v8R3WAI",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-19T16:22:34.000Z",
+      "manageableState": "unmanaged",
+      "type": "SamlSsoConfig"
+    },
+    {
+      "createdById": "0057Q000000WDCNQA4",
+      "createdByName": "Automated Process",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "samlssoconfigs/trailhead_SAML_SSO_Setting.samlssoconfig",
+      "fullName": "trailhead_SAML_SSO_Setting",
+      "id": "0LE7Q000000srx5WAA",
+      "lastModifiedById": "0057Q000000WDCNQA4",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "SamlSsoConfig"
+    }
+  ]
+}

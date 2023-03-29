@@ -1,0 +1,122 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:49.000Z",
+      "fileName": "dashboards/DreamHouse_Dashboards",
+      "fullName": "DreamHouse_Dashboards",
+      "id": "00l7Q000000Wj3WQAS",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:15:49.000Z",
+      "manageableState": "unmanaged",
+      "type": "DashboardFolder"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-15T17:50:56.000Z",
+      "fileName": "dashboards/x2SalesDashboards",
+      "fullName": "x2SalesDashboards",
+      "id": "00l7Q000001K1P7QAK",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-15T17:50:56.000Z",
+      "manageableState": "unmanaged",
+      "type": "DashboardFolder"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-30T10:42:33.000Z",
+      "fileName": "dashboards/Salesforce_Adoption_Dashboards",
+      "fullName": "Salesforce_Adoption_Dashboards",
+      "id": "00l7Q000001Nw7DQAS",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-30T10:42:33.000Z",
+      "manageableState": "unmanaged",
+      "type": "DashboardFolder"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-15T17:50:56.000Z",
+      "fileName": "dashboards/x4SupportDashboards",
+      "fullName": "x4SupportDashboards",
+      "id": "00l7Q000001K1P9QAK",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-15T17:50:56.000Z",
+      "manageableState": "unmanaged",
+      "type": "DashboardFolder"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-15T17:50:56.000Z",
+      "fileName": "dashboards/x3MarketingDashboard",
+      "fullName": "x3MarketingDashboard",
+      "id": "00l7Q000001K1P8QAK",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-15T17:50:56.000Z",
+      "manageableState": "unmanaged",
+      "type": "DashboardFolder"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-15T17:50:56.000Z",
+      "fileName": "dashboards/x1AdoptionDashboards",
+      "fullName": "x1AdoptionDashboards",
+      "id": "00l7Q000001K1P6QAK",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-15T17:50:56.000Z",
+      "manageableState": "unmanaged",
+      "type": "DashboardFolder"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-15T17:50:56.000Z",
+      "fileName": "dashboards/x5DocumentsTabManagement",
+      "fullName": "x5DocumentsTabManagement",
+      "id": "00l7Q000001K1PAQA0",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-15T17:50:56.000Z",
+      "manageableState": "unmanaged",
+      "type": "DashboardFolder"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-15T17:50:56.000Z",
+      "fileName": "dashboards/x6DataQualityAnalysis",
+      "fullName": "x6DataQualityAnalysis",
+      "id": "00l7Q000001K1PBQA0",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-15T17:50:56.000Z",
+      "manageableState": "unmanaged",
+      "type": "DashboardFolder"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-15T17:50:56.000Z",
+      "fileName": "dashboards/x7WhatsInside",
+      "fullName": "x7WhatsInside",
+      "id": "00l7Q000001K1PCQA0",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-15T17:50:56.000Z",
+      "manageableState": "unmanaged",
+      "type": "DashboardFolder"
+    }
+  ]
+}

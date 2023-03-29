@@ -1,0 +1,73 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "contentassets/trlhdtips__thflogo.asset",
+      "fullName": "trlhdtips__thflogo",
+      "id": "03S7Q0000004GSEUA2",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "ContentAsset"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:52.000Z",
+      "fileName": "contentassets/dreamhouselogosquare.asset",
+      "fullName": "dreamhouselogosquare",
+      "id": "03S7Q0000004IeJUAU",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:16:01.000Z",
+      "manageableState": "unmanaged",
+      "type": "ContentAsset"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2022-05-16T23:29:42.000Z",
+      "fileName": "contentassets/tgn__icon.asset",
+      "fullName": "tgn__icon",
+      "id": "03S7Q0000006DBOUA2",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2022-05-16T23:30:04.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "tgn",
+      "type": "ContentAsset"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2022-05-16T23:29:43.000Z",
+      "fileName": "contentassets/tgn__icon26.asset",
+      "fullName": "tgn__icon26",
+      "id": "03S7Q0000006DBPUA2",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2022-05-16T23:30:04.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "tgn",
+      "type": "ContentAsset"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2022-02-18T16:14:56.000Z",
+      "fileName": "contentassets/botanicalsLogo.asset",
+      "fullName": "botanicalsLogo",
+      "id": "03S7Q0000005MgkUAE",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2022-02-18T16:14:59.000Z",
+      "manageableState": "unmanaged",
+      "type": "ContentAsset"
+    }
+  ]
+}

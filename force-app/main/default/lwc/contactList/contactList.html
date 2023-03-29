@@ -1,0 +1,19 @@
+<!--
+  @description       : 
+  @author            : 
+  @group             : 
+  @last modified on  : 03-28-2023
+  @last modified by  : 
+-->
+<template>
+    <lightning-card>
+        <template if:true={contacts.data}>
+            <lightning-datatable
+                key-field="Id"
+                data={contacts.data}
+                columns={columns}
+            >
+           </lightning-datatable>
+        </template>
+    </lightning-card>
+</template>

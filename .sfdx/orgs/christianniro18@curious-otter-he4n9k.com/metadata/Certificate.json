@@ -1,0 +1,17 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-19T16:22:34.000Z",
+      "fileName": "certs/SelfSignedCert_19Nov2021_162234.crt",
+      "fullName": "SelfSignedCert_19Nov2021_162234",
+      "id": "0P17Q000002nvGcSAI",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "type": "Certificate"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "communities/Internal Zone.community",
+      "fullName": "Internal Zone",
+      "id": "09a7Q0000000OXyQAM",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "type": "Community"
+    }
+  ]
+}

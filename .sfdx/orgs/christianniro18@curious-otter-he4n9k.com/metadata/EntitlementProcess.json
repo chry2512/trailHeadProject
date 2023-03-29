@@ -1,0 +1,17 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDCNQA4",
+      "createdByName": "Automated Process",
+      "createdDate": "2021-10-14T08:27:01.000Z",
+      "fileName": "entitlementProcesses/caso standard.entitlementProcess",
+      "fullName": "caso standard",
+      "id": "5527Q000000x79EQAQ",
+      "lastModifiedById": "0057Q000000WDCNQA4",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2021-10-14T08:27:01.000Z",
+      "type": "EntitlementProcess"
+    }
+  ]
+}

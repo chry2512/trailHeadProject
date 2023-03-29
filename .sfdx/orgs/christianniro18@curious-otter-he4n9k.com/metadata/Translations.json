@@ -1,0 +1,83 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "translations/en_US.translation",
+      "fullName": "en_US",
+      "id": "01h7Q000000GyonQAC",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "Translations"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "translations/pt_BR.translation",
+      "fullName": "pt_BR",
+      "id": "01h7Q000000GyomQAC",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "Translations"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "translations/fr.translation",
+      "fullName": "fr",
+      "id": "01h7Q000000GyolQAC",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "Translations"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "translations/de.translation",
+      "fullName": "de",
+      "id": "01h7Q000000GyojQAC",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "Translations"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "translations/es_MX.translation",
+      "fullName": "es_MX",
+      "id": "01h7Q000000GyokQAC",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "Translations"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "translations/ja.translation",
+      "fullName": "ja",
+      "id": "01h7Q000000GyooQAC",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "Translations"
+    }
+  ]
+}

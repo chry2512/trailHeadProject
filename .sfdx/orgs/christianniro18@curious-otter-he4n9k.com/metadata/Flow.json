@@ -1,0 +1,96 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "flows/net_promoter_score.flow",
+      "fullName": "net_promoter_score",
+      "id": "3017Q0000008rhWQAQ",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "Flow"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:52.000Z",
+      "fileName": "flows/Post_Price_Changes_to_Slack.flow",
+      "fullName": "Post_Price_Changes_to_Slack",
+      "id": "3017Q00000099sfQAA",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:16:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "Flow"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:52.000Z",
+      "fileName": "flows/Price_Change_Push_Notification.flow",
+      "fullName": "Price_Change_Push_Notification",
+      "id": "3017Q00000099sgQAA",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:16:01.000Z",
+      "manageableState": "unmanaged",
+      "type": "Flow"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "flows/customer_satisfaction.flow",
+      "fullName": "customer_satisfaction",
+      "id": "3017Q0000008rhXQAQ",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "Flow"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2022-02-18T16:14:56.000Z",
+      "fileName": "flows/Load_Sample_Data.flow",
+      "fullName": "Load_Sample_Data",
+      "id": "3017Q000001AicAQAS",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2022-02-18T16:14:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "Flow"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:52.000Z",
+      "fileName": "flows/Advertise_New_Property.flow",
+      "fullName": "Advertise_New_Property",
+      "id": "3017Q00000099sdQAA",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:15:59.000Z",
+      "manageableState": "unmanaged",
+      "type": "Flow"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:52.000Z",
+      "fileName": "flows/Opportunity_Status_Change.flow",
+      "fullName": "Opportunity_Status_Change",
+      "id": "3017Q00000099seQAA",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:16:00.000Z",
+      "manageableState": "unmanaged",
+      "type": "Flow"
+    }
+  ]
+}

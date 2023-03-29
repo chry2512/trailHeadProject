@@ -1,0 +1,18 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "profileSessionSettings/PT1_profileSessionSetting1479361192857.profileSessionSetting",
+      "fullName": "PT1_profileSessionSetting1479361192857",
+      "id": "0HU7Q000000wkolWAA",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "ProfileSessionSetting"
+    }
+  ]
+}

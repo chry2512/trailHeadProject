@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-20T14:41:55.000Z",
+      "fileName": "permissionsets/MFA_Authorization_for_Samantha.permissionset",
+      "fullName": "MFA_Authorization_for_Samantha",
+      "id": "0PS7Q000001STNUWA4",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-20T14:50:02.000Z",
+      "manageableState": "unmanaged",
+      "type": "PermissionSet"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2022-05-31T10:13:14.000Z",
+      "fileName": "permissionsets/Sales_User_Permission.permissionset",
+      "fullName": "Sales_User_Permission",
+      "id": "0PS7Q000005MHU5WAO",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2022-05-31T10:13:14.000Z",
+      "manageableState": "unmanaged",
+      "type": "PermissionSet"
+    }
+  ]
+}

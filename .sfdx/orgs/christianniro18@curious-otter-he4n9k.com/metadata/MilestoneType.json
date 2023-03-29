@@ -1,0 +1,41 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDCNQA4",
+      "createdByName": "Automated Process",
+      "createdDate": "2021-10-14T08:27:01.000Z",
+      "fileName": "milestoneTypes/Chiudi caso.milestoneType",
+      "fullName": "Chiudi caso",
+      "id": "5577Q000000Gug3QAC",
+      "lastModifiedById": "0057Q000000WDCNQA4",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2021-10-14T08:27:01.000Z",
+      "type": "MilestoneType"
+    },
+    {
+      "createdById": "0057Q000000WDCNQA4",
+      "createdByName": "Automated Process",
+      "createdDate": "2021-10-14T08:27:01.000Z",
+      "fileName": "milestoneTypes/Prima risposta al cliente.milestoneType",
+      "fullName": "Prima risposta al cliente",
+      "id": "5577Q000000Gug1QAC",
+      "lastModifiedById": "0057Q000000WDCNQA4",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2021-10-14T08:27:01.000Z",
+      "type": "MilestoneType"
+    },
+    {
+      "createdById": "0057Q000000WDCNQA4",
+      "createdByName": "Automated Process",
+      "createdDate": "2021-10-14T08:27:01.000Z",
+      "fileName": "milestoneTypes/Inoltra il caso al livello superiore.milestoneType",
+      "fullName": "Inoltra il caso al livello superiore",
+      "id": "5577Q000000Gug2QAC",
+      "lastModifiedById": "0057Q000000WDCNQA4",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2021-10-14T08:27:01.000Z",
+      "type": "MilestoneType"
+    }
+  ]
+}

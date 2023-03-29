@@ -1,0 +1,96 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:54.000Z",
+      "fileName": "remoteSiteSettings/Einstein_Vision.remoteSite",
+      "fullName": "Einstein_Vision",
+      "id": "0rp7Q0000000rAeQAI",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:15:54.000Z",
+      "manageableState": "unmanaged",
+      "type": "RemoteSiteSetting"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2022-01-22T01:12:06.000Z",
+      "fileName": "remoteSiteSettings/animals_http.remoteSite",
+      "fullName": "animals_http",
+      "id": "0rp7Q0000015LxAQAU",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2022-01-22T01:12:06.000Z",
+      "manageableState": "unmanaged",
+      "type": "RemoteSiteSetting"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:54.000Z",
+      "fileName": "remoteSiteSettings/Slack.remoteSite",
+      "fullName": "Slack",
+      "id": "0rp7Q0000000rAhQAI",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:15:54.000Z",
+      "manageableState": "unmanaged",
+      "type": "RemoteSiteSetting"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:54.000Z",
+      "fileName": "remoteSiteSettings/PushServer.remoteSite",
+      "fullName": "PushServer",
+      "id": "0rp7Q0000000rAgQAI",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:15:54.000Z",
+      "manageableState": "unmanaged",
+      "type": "RemoteSiteSetting"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-18T19:15:54.000Z",
+      "fileName": "remoteSiteSettings/LIFX.remoteSite",
+      "fullName": "LIFX",
+      "id": "0rp7Q0000000rAfQAI",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-18T19:15:54.000Z",
+      "manageableState": "unmanaged",
+      "type": "RemoteSiteSetting"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "remoteSiteSettings/ApexDevNet.remoteSite",
+      "fullName": "ApexDevNet",
+      "id": "0rp7Q0000000V6XQAU",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "RemoteSiteSetting"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2022-01-22T01:12:44.000Z",
+      "fileName": "remoteSiteSettings/animals_soap.remoteSite",
+      "fullName": "animals_soap",
+      "id": "0rp7Q0000015LxFQAU",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2022-01-22T01:12:44.000Z",
+      "manageableState": "unmanaged",
+      "type": "RemoteSiteSetting"
+    }
+  ]
+}

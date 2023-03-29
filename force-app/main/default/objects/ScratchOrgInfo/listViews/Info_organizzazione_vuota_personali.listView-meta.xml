@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Info_organizzazione_vuota_personali</fullName>
+    <filterScope>Mine</filterScope>
+    <label>Info organizzazione vuota personali</label>
+</ListView>

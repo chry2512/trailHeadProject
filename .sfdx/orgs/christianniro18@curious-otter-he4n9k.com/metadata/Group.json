@@ -1,0 +1,29 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2022-06-06T15:34:14.000Z",
+      "fileName": "groups/All_Users.group",
+      "fullName": "All_Users",
+      "id": "00G7Q000002zWYYUA2",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2022-06-06T16:04:29.000Z",
+      "type": "Group"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-20T02:13:18.000Z",
+      "fileName": "groups/Project_Manager.group",
+      "fullName": "Project_Manager",
+      "id": "00G7Q000001YeryUAC",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-20T14:56:23.000Z",
+      "type": "Group"
+    }
+  ]
+}

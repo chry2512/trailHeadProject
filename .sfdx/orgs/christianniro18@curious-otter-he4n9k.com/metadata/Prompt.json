@@ -1,0 +1,75 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-14T16:36:02.000Z",
+      "fileName": "prompts/prompts102019__CreateShortcutstoFavoritePagesAccountList.prompt",
+      "fullName": "prompts102019__CreateShortcutstoFavoritePagesAccountList",
+      "id": "0bs7Q000000UaPtQAK",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-14T16:36:02.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "prompts102019",
+      "type": "Prompt"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-14T16:36:02.000Z",
+      "fileName": "prompts/prompts102019__ListViewTipsAccountList.prompt",
+      "fullName": "prompts102019__ListViewTipsAccountList",
+      "id": "0bs7Q000000UaPvQAK",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-14T16:36:02.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "prompts102019",
+      "type": "Prompt"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-14T16:36:02.000Z",
+      "fileName": "prompts/prompts102019__GetHelpAnywhereintheAppAccountList.prompt",
+      "fullName": "prompts102019__GetHelpAnywhereintheAppAccountList",
+      "id": "0bs7Q000000UaPuQAK",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-14T16:36:02.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "prompts102019",
+      "type": "Prompt"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-14T16:36:02.000Z",
+      "fileName": "prompts/prompts102019__RecentItemTipsAccountList.prompt",
+      "fullName": "prompts102019__RecentItemTipsAccountList",
+      "id": "0bs7Q000000UaPwQAK",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-14T16:36:02.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "prompts102019",
+      "type": "Prompt"
+    },
+    {
+      "createdById": "0057Q000000WDBNQA4",
+      "createdByName": "Christian Niro",
+      "createdDate": "2021-11-14T16:36:01.000Z",
+      "fileName": "prompts/prompts102019__ChatterProfileTipsAccountList.prompt",
+      "fullName": "prompts102019__ChatterProfileTipsAccountList",
+      "id": "0bs7Q000000UaPsQAK",
+      "lastModifiedById": "0057Q000000WDBNQA4",
+      "lastModifiedByName": "Christian Niro",
+      "lastModifiedDate": "2021-11-14T16:36:01.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "prompts102019",
+      "type": "Prompt"
+    }
+  ]
+}

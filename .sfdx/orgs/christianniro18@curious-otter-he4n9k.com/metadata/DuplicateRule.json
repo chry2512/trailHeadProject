@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0057Q000000WDCNQA4",
+      "createdByName": "Automated Process",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "duplicateRules/Contact.Standard_Rule_for_Contacts_with_Duplicate_Leads.duplicateRule",
+      "fullName": "Contact.Standard_Rule_for_Contacts_with_Duplicate_Leads",
+      "id": "0Bm7Q000000UifeSAC",
+      "lastModifiedById": "0057Q000000WDCNQA4",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "DuplicateRule"
+    },
+    {
+      "createdById": "0057Q000000WDCNQA4",
+      "createdByName": "Automated Process",
+      "createdDate": "2021-10-14T08:23:58.000Z",
+      "fileName": "duplicateRules/Lead.Standard_Rule_for_Leads_with_Duplicate_Contacts.duplicateRule",
+      "fullName": "Lead.Standard_Rule_for_Leads_with_Duplicate_Contacts",
+      "id": "0Bm7Q000000UifdSAC",
+      "lastModifiedById": "0057Q000000WDCNQA4",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2021-10-14T08:23:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "DuplicateRule"
+    }
+  ]
+}
